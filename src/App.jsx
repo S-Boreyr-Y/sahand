@@ -14,6 +14,7 @@ import NewsTemplate from "./components/News/NewsTemplate";
 import OurServices from "./components/OurServices/OurServices";
 import StatAcademy from "./components/StatisricsWebsite/statAcademy";
 import Suggestion from "./components/Suggestion/Suggestion";
+import Teachers from "./components/Teachers/Teachers";
 
 function App() {
   return (
@@ -34,7 +35,8 @@ function App() {
     {/* <NewsTemplate/> */}
     {/* <News_Detail/> */}
     {/* <Courses_List/> */}
-    <News_List/>
+    {/* <News_List/> */}
+    <Teachers />
     
     </>
   );
