@@ -16,6 +16,7 @@ import StatAcademy from "./components/StatisricsWebsite/statAcademy";
 import Suggestion from "./components/Suggestion/Suggestion";
 import Teachers from "./components/Teachers/Teachers";
 
+
 function App() {
   return (
     <>
